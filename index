@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container">
+  <a class="navbar-brand" href="#">MENU KANTIN ITATS</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Makanan <span class="sr-only">(current)</span></a>
+      </li>
+	  <li class="nav-item active">
+        <a class="nav-link" href="#">Minuman <span class="sr-only">(current)</span></a>
+      </li>
+	  <li class="nav-item active">
+        <a class="nav-link" href="#">Rokok <span class="sr-only">(current)</span></a>
+      </li>
+	  <li class="nav-item active">
+        <a class="nav-link" href="#">Camilan <span class="sr-only">(current)</span></a>
+      </li>
+
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-success" type="submit">Search</button>
+    </form>
+  </div>
+  </div>
+</nav>
+  
+  
+
+  
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Makan Apa Hari Ini?</title>
+  </head>
+  
+  
+  
+  
+  
+  <body>
+	<div class="jumbotron jumbotron-fluid">
+	<div class="container text-center">
+    <h1 class="display-4">Kantin Itats</h1>
+    <p class="lead">Kantin Jl. Arief Rachman Hakim Suraaya Menyediakan Banyak Menu yang Lezad dan Juga Bergizi.</p>
+	</div>
+	</div>
+	
+	<div class="container">
+  <div class="row text-center">
+	<div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text">Seller 1</p>
+	</div>
+	</div>
+    </div>
+    <div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text" >Seller 2</p>
+	</div>
+	</div>
+    </div>
+    <div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text">Seller 3</p>
+	</div>
+	</div>
+    </div>
+	<div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text">Seller 4</p>
+	</div>
+	</div>
+    </div>
+  </div>
+  <div class="row-md">
+	<div class="col-sm">
+      <p> </p>
+    </div>
+  <div class="row text-center">
+	<div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text">Seller 5</p>
+	</div>
+	</div>
+    </div>
+    <div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text" >Seller 6</p>
+	</div>
+	</div>
+    </div>
+    <div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text">Seller 7</p>
+	</div>
+	</div>
+    </div>
+	<div class="col-md">
+	<div class="card">
+	<img src="image/seller_logo.png" class="card-img-top" alt="...">
+	<div class="card-body">
+	<p class="card-text">Seller 8</p>
+	</div>
+	</div>
+    </div>
+  </div>
+</div>
+<p> </P>
+	<!-- footer -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" href="#">
+    <img src="/docs/4.3/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+    RPL Kelompok 1
+  </a>
+  <div class="container"> Web Menu Kantin Itats By : RPL KELOMPOK 1 || Made With Bootstap 4</p></div>
+</nav>
+   
+  </body>
+</html>
